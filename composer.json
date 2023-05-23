@@ -1,0 +1,15 @@
+{
+    "name": "omid-aghakhani/validation",
+    "description": "validate data for time,number or string",
+    "type": "library",
+	"version":"1.0.0",
+	"authors":[{"name":"Omid Aghakhani","email":"info@iranapp.org","role":"owner"}],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+	"autoload":  {
+		"files":[
+		"src/validation_helper.php"
+		]
+	}
+}
